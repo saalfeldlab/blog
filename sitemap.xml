@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://saalfeldlab.github.io/blog/integral%20image/imagej/antialiazing/transformation/mpicbg/2022/07/22/integral-image-mapping.html</loc>
-<lastmod>2022-07-22T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>https://saalfeldlab.github.io/blog/integral%20image/imagej/tilt/frequency%20filter/mpicbg/2022/07/22/tilt-noise.html</loc>
-<lastmod>2022-07-22T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>https://saalfeldlab.github.io/blog/about/</loc>
-</url>
-<url>
-<loc>https://saalfeldlab.github.io/blog/</loc>
-</url>
-<url>
-<loc>https://saalfeldlab.github.io/blog/search/</loc>
-</url>
-<url>
-<loc>https://saalfeldlab.github.io/blog/categories/</loc>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://saalfeldlab.github.io/blog/posts/2022-07-22-tilt-noise.html</loc>
+    <lastmod>2024-02-06T01:16:01.876Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saalfeldlab.github.io/blog/index.html</loc>
+    <lastmod>2024-02-06T01:16:01.872Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saalfeldlab.github.io/blog/about.html</loc>
+    <lastmod>2024-02-06T01:33:28.662Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saalfeldlab.github.io/blog/posts/2022-07-22-integral-image-mapping.html</loc>
+    <lastmod>2024-02-06T01:16:01.876Z</lastmod>
+  </url>
 </urlset>

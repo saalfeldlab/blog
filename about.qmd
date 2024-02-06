@@ -1,0 +1,19 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/saalfeldlab
+    - icon: mastodon
+      text: Mastodon
+      href: https://mastodon.social/@herrsaalfeld
+
+---
+
+# This blog is for news and chatter
+
+The [Saalfeld lab](https://www.janelia.org/lab/saalfeld-lab) develops scalable image analysis methods as open source software.
+We use this blog to post unfinished scripts and ideas and to communicate stuff that didn't work out.
